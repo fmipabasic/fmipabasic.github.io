@@ -410,16 +410,16 @@ p{margin-bottom:1.6em;line-height:1.75em}
 .row--1200{max-width:1200px;margin-left:auto;margin-right:auto}
 .row--1440{max-width:1440px;margin-left:auto;margin-right:auto}
 
-@font-face{font-family:Clearface Regular;src:url(../fonts/clearface-regular.eot);src:url(../fonts/clearface-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/clearface-regular.ttf) format('truetype');font-weight:400;font-style:normal}
+@font-face{font-family:Clearface Regular;src:url(./assets/fonts/clearface-regular.eot);src:url(./assets/fonts/clearface-regular.eot?#iefix) format('embedded-opentype'),url(./assets/fonts/clearface-regular.ttf) format('truetype');font-weight:400;font-style:normal}
 .clearface-regular{font-family:Clearface Regular,serif;font-weight:400;font-style:normal}
 
-@font-face{font-family:Proxima Nova Regular;src:url(../fonts/prixima-nova-regular.eot);src:url(../fonts/prixima-nova-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/prixima-nova-regular.ttf) format('truetype');font-weight:400;font-style:normal}
+@font-face{font-family:Proxima Nova Regular;src:url(./assets/fonts/prixima-nova-regular.eot);src:url(./assets/fonts/prixima-nova-regular.eot?#iefix) format('embedded-opentype'),url(./assets/fonts/prixima-nova-regular.ttf) format('truetype');font-weight:400;font-style:normal}
 .project-nav ul li a,.proxima-nova-regular,body{font-family:Proxima Nova Regular,serif;font-weight:400;font-style:normal}
 
-@font-face{font-family:Proxima Nova Bold;src:url(../fonts/prixima-nova-bold.eot);src:url(../fonts/prixima-nova-bold.eot?#iefix) format('embedded-opentype'),url(../fonts/prixima-nova-bold.ttf) format('truetype');font-weight:700;font-style:normal}
+@font-face{font-family:Proxima Nova Bold;src:url(./assets/fonts/prixima-nova-bold.eot);src:url(./assets/fonts/prixima-nova-bold.eot?#iefix) format('embedded-opentype'),url(./assets/fonts/prixima-nova-bold.ttf) format('truetype');font-weight:700;font-style:normal}
 .as-h1,.as-h2,.as-h3,.as-h4,.as-h5,.as-h6,.button,.button--default,.button--ghost,.button--hexagon .button__label,.button--solid,.button--underlined,.main-nav ul li a,.main-nav ul li:before,.proxima-nova-bold,h1,h2,h3,h4,h5,h6{font-family:Proxima Nova Bold,serif;font-weight:700;font-style:normal}
 
-@font-face{font-family:Daveid Icon;src:url(../fonts/daveid-icons.eot);src:url(../fonts/daveid-icons.eot?#iefix) format('embedded-opentype'),url(../fonts/daveid-icons.ttf) format('truetype');font-weight:400;font-style:normal}
+@font-face{font-family:Daveid Icon;src:url(./assets/fonts/daveid-icons.eot);src:url(./assets/fonts/daveid-icons.eot?#iefix) format('embedded-opentype'),url(./assets/fonts/daveid-icons.ttf) format('truetype');font-weight:400;font-style:normal}
 .daveid-icon,i.icon{font-family:Daveid Icon,serif;font-weight:400;font-style:normal}
 
 i.icon{text-transform:none;font-style:normal}
